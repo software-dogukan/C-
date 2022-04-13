@@ -17,11 +17,11 @@ namespace Interface
         }
         interface ISinif//interface oluşturduk
         {
-            void sinif();//interface methoh ismi verdik
+            void sinif();//interface metot ismi verdik
         }
         class Okul//class oluşturdul
         {
-            public ISinif student { get; set; }//prop değer istedik bu methot için
+            public ISinif student { get; set; }//prop değer istedik bu metot için
             public void tenefus()//Metot oluşturduk
             {
                 student.sinif();//girilen prop değerin yerine git class çalıştırrr

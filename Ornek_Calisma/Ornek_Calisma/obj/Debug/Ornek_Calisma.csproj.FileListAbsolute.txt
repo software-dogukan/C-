@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Ornek_Calisma\Ornek_Calisma\bin\Debug\Ornek_Calisma.exe.config
+C:\Users\USER\source\repos\Ornek_Calisma\Ornek_Calisma\bin\Debug\Ornek_Calisma.exe
+C:\Users\USER\source\repos\Ornek_Calisma\Ornek_Calisma\bin\Debug\Ornek_Calisma.pdb
+C:\Users\USER\source\repos\Ornek_Calisma\Ornek_Calisma\obj\Debug\Ornek_Calisma.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Ornek_Calisma\Ornek_Calisma\obj\Debug\Ornek_Calisma.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Ornek_Calisma\Ornek_Calisma\obj\Debug\Ornek_Calisma.exe
+C:\Users\USER\source\repos\Ornek_Calisma\Ornek_Calisma\obj\Debug\Ornek_Calisma.pdb

@@ -10,57 +10,57 @@ namespace Abstract
     {
         static void Main(string[] args)
         {
-            Kisi k1 = new Ilkokul();
-            Kisi k2 = new Ortaokul();
-            Kisi k3 = new Lise();
-            k1.Isim();
-            k2.Soyisim();
-            k3.Yas();
-            Console.ReadLine();
+            Kisi k1 = new Ilkokul();//class tanımı yapıldı 
+            Kisi k2 = new Ortaokul();//class tanımı yapıldı 
+            Kisi k3 = new Lise();//class tanımı yapıldı 
+            k1.Isim();//metot çalıştırıldı
+            k2.Soyisim();//metot çalıştırıldı
+            k3.Yas();//metot çalıştırıldı
+            Console.ReadLine();//consol açık kalması için yapılır.
         }
 
-        abstract class Kisi
+        abstract class Kisi//abstract class kullanarak classlara bağladığımızda zorunlu olarak girilmesi gereken metotlar olacak
         {
-            abstract public void Isim();
-            abstract public void Soyisim();
-            public void Yas()
+            abstract public void Isim();//zorunlu metot oluşturulacak
+            abstract public void Soyisim();//zorunlu metot oluşturulacak
+            public void Yas()//bağlantı sağlanılan classlar bu metot barındaracak
             {
                 Console.WriteLine("Yaş aralığı 7-18");
             }
 
         }
-        class Ortaokul : Kisi
+        class Ortaokul : Kisi//Ortaokul ile Kisi class bağlantı sağlanıldı ve kalıtım yapıldı
         {
-            public override void Isim()
+            public override void Isim()//override ile metot ezildi 
             {
                 Console.WriteLine("Doğukan");
             }
 
-            public override void Soyisim()
+            public override void Soyisim()//override ile metot ezildi 
             {
                 Console.WriteLine("ALKAN");
             }
         }
-        class Ilkokul : Kisi
+        class Ilkokul : Kisi//Ilkokul ile Kisi class bağlantı sağlanıldı ve kalıtım yapıldı
         {
-            public override void Isim()
+            public override void Isim()//override ile metot ezildi 
             {
                 Console.WriteLine("Sena");
             }
 
-            public override void Soyisim()
+            public override void Soyisim()//override ile metot ezildi 
             {
                 Console.WriteLine("BAYRAKTAR");
             }
         }
-        class Lise : Kisi
+        class Lise : Kisi//Lise ile Kisi class bağlantı sağlanıldı ve kalıtım yapıldı
         {
-            public override void Isim()
+            public override void Isim()//override ile metot ezildi 
             {
                 Console.WriteLine("Mehmet");
             }
 
-            public override void Soyisim()
+            public override void Soyisim()//override ile metot ezildi 
             {
                 Console.WriteLine("AÇIK");
             }

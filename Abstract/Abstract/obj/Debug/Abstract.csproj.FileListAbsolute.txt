@@ -5,3 +5,10 @@ C:\Users\USER\source\repos\Abstract\Abstract\obj\Debug\Abstract.csproj.AssemblyR
 C:\Users\USER\source\repos\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
 C:\Users\USER\source\repos\Abstract\Abstract\obj\Debug\Abstract.exe
 C:\Users\USER\source\repos\Abstract\Abstract\obj\Debug\Abstract.pdb
+C:\Users\USER\Desktop\Uygulamalar\C#\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\USER\Desktop\Uygulamalar\C#\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\Users\USER\Desktop\Uygulamalar\C#\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\USER\Desktop\Uygulamalar\C#\Abstract\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Uygulamalar\C#\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Uygulamalar\C#\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\Users\USER\Desktop\Uygulamalar\C#\Abstract\Abstract\obj\Debug\Abstract.pdb
