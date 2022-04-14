@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\ArrayList_And_List\ArrayList_And_List\bin\Debug\ArrayList_And_List.exe.config
+C:\Users\USER\source\repos\ArrayList_And_List\ArrayList_And_List\bin\Debug\ArrayList_And_List.exe
+C:\Users\USER\source\repos\ArrayList_And_List\ArrayList_And_List\bin\Debug\ArrayList_And_List.pdb
+C:\Users\USER\source\repos\ArrayList_And_List\ArrayList_And_List\obj\Debug\ArrayList_And_List.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ArrayList_And_List\ArrayList_And_List\obj\Debug\ArrayList_And_List.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ArrayList_And_List\ArrayList_And_List\obj\Debug\ArrayList_And_List.exe
+C:\Users\USER\source\repos\ArrayList_And_List\ArrayList_And_List\obj\Debug\ArrayList_And_List.pdb
