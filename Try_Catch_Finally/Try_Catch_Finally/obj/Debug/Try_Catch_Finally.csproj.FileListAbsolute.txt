@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\Try_Catch_Finally\Try_Catch_Finally\bin\Debug\Try_Catch_Finally.exe.config
+C:\Users\USER\source\repos\Try_Catch_Finally\Try_Catch_Finally\bin\Debug\Try_Catch_Finally.exe
+C:\Users\USER\source\repos\Try_Catch_Finally\Try_Catch_Finally\bin\Debug\Try_Catch_Finally.pdb
+C:\Users\USER\source\repos\Try_Catch_Finally\Try_Catch_Finally\obj\Debug\Try_Catch_Finally.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Try_Catch_Finally\Try_Catch_Finally\obj\Debug\Try_Catch_Finally.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Try_Catch_Finally\Try_Catch_Finally\obj\Debug\Try_Catch_Finally.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Try_Catch_Finally\Try_Catch_Finally\obj\Debug\Try_Catch_Finally.exe
+C:\Users\USER\source\repos\Try_Catch_Finally\Try_Catch_Finally\obj\Debug\Try_Catch_Finally.pdb
