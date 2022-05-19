@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\Log\Log\bin\Debug\Log.exe.config
+C:\Users\USER\source\repos\Log\Log\bin\Debug\Log.exe
+C:\Users\USER\source\repos\Log\Log\bin\Debug\Log.pdb
+C:\Users\USER\source\repos\Log\Log\obj\Debug\Log.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Log\Log\obj\Debug\Log.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Log\Log\obj\Debug\Log.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Log\Log\obj\Debug\Log.exe
+C:\Users\USER\source\repos\Log\Log\obj\Debug\Log.pdb
