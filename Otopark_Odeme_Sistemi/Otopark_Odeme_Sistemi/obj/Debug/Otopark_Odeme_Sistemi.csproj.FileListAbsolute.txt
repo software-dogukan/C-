@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\Otopark_Odeme_Sistemi\Otopark_Odeme_Sistemi\bin\Debug\Otopark_Odeme_Sistemi.exe.config
+C:\Users\USER\source\repos\Otopark_Odeme_Sistemi\Otopark_Odeme_Sistemi\bin\Debug\Otopark_Odeme_Sistemi.exe
+C:\Users\USER\source\repos\Otopark_Odeme_Sistemi\Otopark_Odeme_Sistemi\bin\Debug\Otopark_Odeme_Sistemi.pdb
+C:\Users\USER\source\repos\Otopark_Odeme_Sistemi\Otopark_Odeme_Sistemi\obj\Debug\Otopark_Odeme_Sistemi.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Otopark_Odeme_Sistemi\Otopark_Odeme_Sistemi\obj\Debug\Otopark_Odeme_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Otopark_Odeme_Sistemi\Otopark_Odeme_Sistemi\obj\Debug\Otopark_Odeme_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Otopark_Odeme_Sistemi\Otopark_Odeme_Sistemi\obj\Debug\Otopark_Odeme_Sistemi.exe
+C:\Users\USER\source\repos\Otopark_Odeme_Sistemi\Otopark_Odeme_Sistemi\obj\Debug\Otopark_Odeme_Sistemi.pdb
